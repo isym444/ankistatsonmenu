@@ -12,3 +12,6 @@ Note that when adding decks, the name of the deck must be an exact match. If you
 If you want to add multiple decks/subdecks in one go, you can do this by writing a semicolon ";" between each deck/subdeck name but make sure not to add spaces either side of the semicolon. The permisiveness of the deck/subdeck input/removal will be improved in a future version.
 
 [dist.zip](https://github.com/isym444/ankistatsonmenu/files/8145443/dist.zip)
+
+This small tool was bashed together using: rumps, anki-connect API and pickle
+Thank you to the developers of these for their hard work, which has let even a total beginner like me to make this personal project
