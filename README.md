@@ -1,6 +1,6 @@
 # ankistatsonmenu
 
-This app allows the display of user-specified anki deck remaining daily reviews to mac menu bar. It updates the remaining count every 30 seconds.
+This app allows the display of user-specified anki decks' remaining daily reviews to the macOS menu bar. It updates the remaining count every 30 seconds and saves your previous configuration when closing and re-opening the app.
 
 Note this is a mac only app and will not work on windows or other operating systems.
 
@@ -15,5 +15,6 @@ If you want to add multiple decks/subdecks in one go, you can do this by writing
 
 [dist.zip](https://github.com/isym444/ankistatsonmenu/files/8145443/dist.zip)
 
-This small tool was bashed together using: rumps, anki-connect API and pickle
-Thank you to the developers of these for their hard work, which has let even a total beginner like me to make this personal project
+This small tool was bashed together using: rumps, anki-connect API and pickle.
+
+Thank you to the developers of these for their hard work, which has let even a total beginner like me to make this personal project.
