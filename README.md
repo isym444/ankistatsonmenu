@@ -2,6 +2,8 @@
 
 # Description
 
+![Screenshot 2022-02-26 at 00 37 06](https://user-images.githubusercontent.com/8883914/155821021-10dd2437-4cb4-4c31-aa91-6b889129ff32.png)
+
 This app allows the display of user-specified anki decks' remaining daily reviews to the macOS menu bar. It updates the remaining count every 30 seconds and saves your previous configuration when closing and re-opening the app.
 
 Note this is a mac only app and will not work on windows or other operating systems.
