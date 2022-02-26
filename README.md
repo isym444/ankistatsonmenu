@@ -1,5 +1,7 @@
 # ankistatsonmenu
 
+This app allows the display of user-specified anki deck remaining daily reviews to mac menu bar. It updates the remaining count every 30 seconds.
+
 Note this is a mac only app and will not work on windows or other operating systems.
 
 Download the zip file below, extract it, open the resulting folder and inside will be the .app file which you can double click to start the app.
