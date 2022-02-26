@@ -8,7 +8,7 @@ Note this is a mac only app and will not work on windows or other operating syst
 
 # Download/Installation instructions
 
-Download the dist.zip file in the "Releases" link on the right hand side of this page, extract it, open the resulting folder and inside will be the .app file which you can double click to start the app.
+Go to the "Releases" page by clicking on the "Releases" link on the right hand side of this page. Scroll down to and click on the "assets" toggle near the bottom of the releases page. Download the dist.zip file, extract it, open the resulting folder and inside will be the .app file which you can double click to start the app.
 
 Feel free to copy this .app file to your applications folder or drag it onto your mac's dock for easier access.
 
